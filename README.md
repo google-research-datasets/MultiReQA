@@ -39,18 +39,3 @@ We show the number of candidate sentences for each dataset in the table below.
 |             BioASQ |         - |     14,158 |
 | RelationExtraction |         - |      3,301 |
 |         TextbookQA |         - |      3,701 |
-
-# Reference
-If you use this dataset, please cite [[1]](https://arxiv.org/abs/2005.02507):
-
-[1] Mandy Guo, Yinfei Yang, Daniel Cer, Qinlan Shen, Noah Constant (2020). [MultiReQA: A Cross-Domain Evaluation for Retrieval Question Answering Models](https://arxiv.org/abs/2005.02507). arXiv preprint arXiv:2004.05484.
-```
-@misc{m2020multireqa,
-    title={MultiReQA: A Cross-Domain Evaluation for Retrieval Question Answering Models},
-    author={Mandy Guo and Yinfei Yang and Daniel Cer and Qinlan Shen and Noah Constant},
-    year={2020},
-    eprint={2005.02507},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
-}
-```
